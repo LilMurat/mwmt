@@ -1,5 +1,5 @@
 /*
-    Bu program, mwtm kolekisyonunun bir parçasıdır. 2.dereceden denklemlerde kökleri bulmak için kullanılır.
+    Bu program, mwmt kolekisyonunun bir parçasıdır. 2.dereceden denklemlerde kökleri bulmak için kullanılır.
 
     (c) Murat Coşkun, 2022 [murat.cskn@outlook.com.tr]
 */

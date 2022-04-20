@@ -1,5 +1,5 @@
 /*
-    Bu program, mwtm kolekisyonunun bir parçasıdır. Çemberde alanı ve çevreyi bulmak için kullanılır.
+    Bu program, mwmt kolekisyonunun bir parçasıdır. Çemberde alanı ve çevreyi bulmak için kullanılır.
 
     (c) Murat Coşkun, 2022 [murat.cskn@outlook.com.tr]
 */
