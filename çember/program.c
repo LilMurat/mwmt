@@ -52,5 +52,4 @@ int main(int argc, char *argv[])
         printf("\nhata: bilinmeyen mod :: %s (muhtemel mod değerleri: 0, 1, 2)\n", argv[1]); /* ekrana "bilinmeyen mod", muhtemel mod değerlerini ve girilen mod değerlerini yazdır */
         return 1; /* programı hata ile bitir */
     } /* eğer program hala bitmediyse (mod değeri 0, 1 veya 2 değilse) ekrana hata mesajı yazdır ve programı hata kodu "1" ile bitir */
-
 }

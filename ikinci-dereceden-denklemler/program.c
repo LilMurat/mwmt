@@ -43,5 +43,4 @@ int main()
         printf("kökler bölümü = %lf\n", x1 / x2);
         return 0;
     } /* eğer denklemde çakışık kök yoksa ve denklemin diskriminantı ("delta" değişkeni) negatif değil ise ekrana x1, x2 (denklemin kökleri), kökler toplamını, kökler farkını, kökler çarpımını ve kökler bölümünü yazdır ve programı sonlandır */
-
 }
